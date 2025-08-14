@@ -7,7 +7,7 @@ import blog5 from "../assets/blog5.png";
 import blog6 from "../assets/blog6.png";
 
 const Blog = () => {
-  const blogImages = [blog1, blog2, blog3, blog4, blog5, blog6];
+  const blogImages = [ blog1, blog2, blog3, blog4, blog5, blog6 ];
 
   return (
     <section className="w-full py-16 px-5 bg-black text-white" id="blog">
