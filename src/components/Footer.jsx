@@ -55,10 +55,10 @@ const Footer = () => {
 
           {/* Contact */}
           <div>
-            <h3 className="font-bold mb-2">Contact</h3>
+            <h3 className="font-bold mb-2">Contact Us</h3>
             <ul className="text-gray-400 space-y-1">
               <li>+91 386-647-3637</li>
-              <li>710110 St. South Gate, India, West Bengal</li>
+              <li>777777, India, West Bengal</li>
             </ul>
           </div>
         </div>
